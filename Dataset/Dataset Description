@@ -1,0 +1,20 @@
+The dataset used in this project contains 8 features and 1 target variable, which is the onset of diabetes.
+
+# The features are as follows:
+
+Pregnancies
+
+Glucose
+
+Blood Pressure
+
+Skin Thickness
+
+Insulin
+
+BMI
+
+Diabetes Pedigree Function
+
+Age
+
