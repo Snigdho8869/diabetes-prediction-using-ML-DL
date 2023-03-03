@@ -1,0 +1,15 @@
+# The following machine learning algorithms are used in this project:
+
+Logistic Regression
+
+Support Vector Machines (SVM)
+
+Random Forest (RF)
+
+GradientBoosting
+
+Ensemble Learning (using voting classifier)
+
+AdaBoost
+
+In addition, a deep neural network (DNN) is also used for diabetes prediction.
